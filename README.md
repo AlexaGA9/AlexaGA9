@@ -1,6 +1,6 @@
-- Hi, I’m @AlexaGA9
-- I’m interested in coding
-- ⚡ Fun fact: Nothng
+- Aspiring software developer
+- Python, Java, HTML, JavaScript
+- Learning C
 
 <!---
 AlexaGA9/AlexaGA9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
