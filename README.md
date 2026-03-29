@@ -1,6 +1,5 @@
 - Hi, I’m @AlexaGA9
 - I’m interested in coding
-- I’m currently learning the Python language
 - ⚡ Fun fact: Nothng
 
 <!---
